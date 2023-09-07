@@ -73,13 +73,11 @@ Kext|Description
 # Important changes on **config.plist**
 Update **config.plist** in PlatformInfo > Generic with YOUR informations.
 <br>
+
 1. MLB (Board Serial)
-<br>
-1. ROM (Mac Address)
-<br>
-1. SystemSerialNumber (Serial)
-<br>
-1. SystemUUID (SmUUID)*
+2. ROM (Mac Address)
+3. SystemSerialNumber (Serial)
+4. SystemUUID (SmUUID)*
 
 Please use [*genSMBIOS*](https://github.com/corpnewt/GenSMBIOS/archive/refs/heads/master.zip) for generate values for above itens.
 <br>
