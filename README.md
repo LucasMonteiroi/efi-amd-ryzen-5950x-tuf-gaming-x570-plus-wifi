@@ -1,0 +1,1 @@
+# efi-amd-ryzen-5950x-tuf-gaming-x570-plus-wifi
